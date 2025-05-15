@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Fake REST API with json-server",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
